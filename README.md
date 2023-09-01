@@ -18,4 +18,4 @@ Overall, after Defining model architecture and fitting the model on training dat
 **Convolutional network final test set accuracy: 0.985000**<br>
 <br>
 ## Conclusion
-Accordingly, the convolutional network is the best model, which was able to explain **98.5%** of its final test set accuracy, with the loss of 7%.<br>
+Accordingly, the convolutional network is the best model, which was able to explain **98.5% of its final test set accuracy**, with the loss of 7%.<br>
