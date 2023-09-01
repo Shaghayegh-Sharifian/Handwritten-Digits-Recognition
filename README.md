@@ -12,7 +12,7 @@ Overall, after fitting the classifiers to the dataset, the classifiers were able
 <br>
 For Persian digits, as mentioned before I used a multiple-layer convolutional network from the Hoda data set images that are flattened and become a vector in the function we have written before, load_hoda.<br>
 In this call, the length and width of the images are set to 28, so the output of this function is 784 vectors.<br>
-Overall, after Define model architecture and fitting the model on training data, the model was able to predict the test data as below:<br>
+Overall, after Defining model architecture and fitting the model on training data, the model was able to predict the test data as below:<br>
 <br>
 **Convolutional network final test set loss: 0.071973**<br>
 **Convolutional network final test set accuracy: 0.985000**<br>
